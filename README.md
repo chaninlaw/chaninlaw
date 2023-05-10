@@ -1,6 +1,5 @@
 
 ## 🚀 About Me
-I'm a frontend developer...
 
 
 # Hi, I'm Chanin! 👋
@@ -25,6 +24,6 @@ I'm a frontend developer...
 ⚡️ Fun fact...
 
 
-## 🛠 Skills
+## 🛠 Programming Languages
 Javascript, HTML, CSS
 
