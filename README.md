@@ -4,7 +4,7 @@ I'm a newbie web developer with a passion for learning. I'm proficient in JavaSc
 
 I'm excited to share my work with the world and to learn from other developers. I hope to one day make a significant impact on the web development community.
 
-# Hi, I'm Chanin Lawlertrattana! 👋
+# Hi, I'm Nin! 👋
 - 📧 How to reach me: **chaninlawlert@gmail.com**.
 
 ## 🔗 Links
