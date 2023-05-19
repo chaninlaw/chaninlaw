@@ -74,8 +74,11 @@ I'm excited to share my work with the world and to learn from other developers. 
 ## 📊 Github Stats
 
 <div align = "center">
-
+<details close>
+  <summary><b>📊 Stats</b></summary>
+  
 [![Chanin's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaninlaw)](https://github.com/anuraghazra/github-readme-stats)&nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaninlaw&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+  
+<details>
 </div>
