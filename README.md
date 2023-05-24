@@ -16,7 +16,6 @@ I'm excited to share my work with the world and to learn from other developers. 
 ## 🎯 Future Goals
 - Learn meta-framework such as &nbsp;![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 - Backend tool such as &nbsp;![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)&nbsp; and &nbsp;![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)&nbsp;
-- Headless CMS such as &nbsp;![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white)
 - Mobile App framework such as &nbsp;![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 - Understanding and Learning more higher picture of Software architecture
 
