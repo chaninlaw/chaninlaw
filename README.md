@@ -1,12 +1,10 @@
 
-# Hi, I'm Nin! 👋
+# About me
+- I'm a web developer with a passion for learning and
+- Looking for new challenges and opportunities to grow my skills.
+- I hope one day my passion will shake the world.
 
-## 🚀 About Me
-> I'm a web developer with a passion for learning and always looking for new challenges and opportunities to grow my skills. I'm also a humble and friendly person who is always willing to help others.
-
-> I'm excited to share my work with the world and to learn from other developers. I hope to one day make a significant impact on the web development community.
-
-## 🛠 PLs & Tools
+## Tools
   
 <p align="center">
   <a href="https://github.com/chaninlaw">
@@ -17,7 +15,7 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-## ⚡️ Github Stats
+## Github Stats
 <details close>
   <summary><b>📊 Stats</b></summary>
   <div align = "center">
