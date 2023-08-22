@@ -2,7 +2,7 @@
 # Hi, I'm Nin! 👋
 
 ## 🚀 About Me
-> I'm a newbie web developer with a passion for learning. I'm proficient in JavaScript, HTML, and CSS, and I'm currently learning React. I'm always looking for new challenges and opportunities to grow my skills. I'm also a humble and friendly person who is always willing to help others.
+> I'm a web developer with a passion for learning and always looking for new challenges and opportunities to grow my skills. I'm also a humble and friendly person who is always willing to help others.
 
 > I'm excited to share my work with the world and to learn from other developers. I hope to one day make a significant impact on the web development community.
 
@@ -10,21 +10,12 @@
   
 <p align="center">
   <a href="https://github.com/chaninlaw">
-    <img src="https://skillicons.dev/icons?i=js,typescript,express,nodejs,react,next,postgres,mongodb,html,css,bootstrap,tailwind,materialui,figma,git,github&perline=8" />
+    <img src="https://skillicons.dev/icons?i=js,typescript,express,nodejs,react,next,postgres,mongodb,html,css,styledcomponents,tailwind,materialui,figma,git,github&perline=8" />
   </a>
 </p>
 
-
-## 🔥 Currently
-
-- I'm currently learning &nbsp;![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp; and &nbsp;![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)&nbsp;
-
-## 🎯 Future Goals
-
-- Backend tool such as &nbsp;![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)&nbsp; and &nbsp;![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)&nbsp;
-- Mobile App framework such as &nbsp;![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-- Understanding and Learning more higher picture of Software architecture
-  
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ## ⚡️ Github Stats
 <details close>
