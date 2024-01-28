@@ -1,15 +1,15 @@
 
 # Hello and welcome to my GitHub space! 👋
 
-I am a dedicated web developer with a deep-rooted passion for technology and an insatiable desire to learn. My journey in the digital realm is driven by curiosity, creativity, and the constant pursuit of excellence. I thrive on challenges and view each new project as an opportunity to expand my skill set and push the boundaries of what's possible.
+> I am a dedicated web developer with a deep-rooted passion for technology and an insatiable desire to learn. My journey in the digital realm is driven by curiosity, creativity, and the constant pursuit of excellence. I thrive on challenges and view each new project as an opportunity to expand my skill set and push the boundaries of what's possible.
 
-With every line of code, I aim to contribute something meaningful to the world, hoping that my work will not only solve problems but also inspire others. I believe in the transformative power of technology and am committed to making an impact that resonates.
+> With every line of code, I aim to contribute something meaningful to the world, hoping that my work will not only solve problems but also inspire others. I believe in the transformative power of technology and am committed to making an impact that resonates.
 
-Here, you'll find a mix of projects that showcase my skills, experiments, and the learning path I'm on. Whether it's front-end aesthetics or back-end functionality, my goal is to craft seamless, user-centric experiences that stand the test of time.
+> Here, you'll find a mix of projects that showcase my skills, experiments, and the learning path I'm on. Whether it's front-end aesthetics or back-end functionality, my goal is to craft seamless, user-centric experiences that stand the test of time.
 
-I'm always on the lookout for new collaborations, projects, and opportunities to learn from the brilliant minds within this community. If you're interested in working together or just want to say hi, don't hesitate to reach out!
+> I'm always on the lookout for new collaborations, projects, and opportunities to learn from the brilliant minds within this community. If you're interested in working together or just want to say hi, don't hesitate to reach out!
 
-Let's build something amazing together. 🚀
+> Let's build something amazing together. 🚀
 
 ## Tools
   
