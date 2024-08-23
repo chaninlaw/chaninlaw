@@ -1,16 +1,16 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 August 2023 - To: 20 August 2024
+From: 21 August 2023 - To: 21 August 2024
 
-Total Time: 1,966 hrs 18 mins
+Total Time: 1,970 hrs 42 mins
 
-TypeScript                 1,577 hrs 57 mins████████████████████░░░░░   80.25 %
-sh                         215 hrs 5 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.94 %
-Go                         39 hrs 30 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
-JSON                       29 hrs 50 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
+TypeScript                 1,582 hrs 6 mins████████████████████░░░░░   80.28 %
+sh                         215 hrs 5 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.91 %
+Go                         39 hrs 30 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
+JSON                       29 hrs 57 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
 JavaScript                 18 hrs 56 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
-Other                      18 hrs 13 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
+Other                      18 hrs 13 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
 ```
 
 <!--END_SECTION:waka-->
