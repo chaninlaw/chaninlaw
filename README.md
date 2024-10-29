@@ -17,7 +17,7 @@ Other                      21 hrs 17 mins  ▒░░░░░░░░░░░�
 ## Tool
 <p align="center">
   <a href="https://github.com/chaninlaw">
-    <img src="https://skillicons.dev/icons?i=js,typescript,express,nodejs,react,next,postgres,mongodb,html,css,styledcomponents,tailwind,materialui,figma,git,github&perline=8" />
+    <img src="https://skillicons.dev/icons?i=js,typescript,nodejs,nestjs,react,next,astro,html,css,tailwind,postgres,prisma,docker,git,rust,go&perline=7&theme=dark" />
   </a>
 </p>
 
