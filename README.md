@@ -1,12 +1,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 August 2023 - To: 28 November 2024
+From: 21 August 2023 - To: 30 November 2024
 
-Total Time: 2,481 hrs 56 mins
+Total Time: 2,488 hrs 39 mins
 
-TypeScript                 2,010 hrs 7 mins████████████████████▒░░░░   80.99 %
-sh                         239 hrs 56 mins ██▒░░░░░░░░░░░░░░░░░░░░░░   09.67 %
+TypeScript                 2,016 hrs 15 mins████████████████████▒░░░░   81.02 %
+sh                         239 hrs 58 mins ██▒░░░░░░░░░░░░░░░░░░░░░░   09.64 %
 Go                         39 hrs 30 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
 JavaScript                 25 hrs 47 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
 Other                      24 hrs 1 min    ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
