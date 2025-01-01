@@ -1,13 +1,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 August 2023 - To: 29 December 2024
+From: 21 August 2023 - To: 31 December 2024
 
-Total Time: 2,655 hrs
+Total Time: 2,673 hrs 3 mins
 
-TypeScript                 2,116 hrs 29 mins████████████████████░░░░░   79.72 %
-sh                         244 hrs 58 mins ██▒░░░░░░░░░░░░░░░░░░░░░░   09.23 %
-Other                      76 hrs 25 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.88 %
+TypeScript                 2,118 hrs 22 mins███████████████████▓░░░░░   79.25 %
+sh                         245 hrs 32 mins ██▒░░░░░░░░░░░░░░░░░░░░░░   09.19 %
+Other                      90 hrs 44 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 %
 ```
 
 <!--END_SECTION:waka-->
