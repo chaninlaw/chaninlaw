@@ -13,16 +13,25 @@ Other                      123 hrs 45 mins █░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ## Tool
-<p align="center">
-  <a href="https://github.com/chaninlaw">
-    <img src="https://skillicons.dev/icons?i=js,typescript,nodejs,nestjs,react,next,astro,html,css,tailwind,postgres,prisma,docker,git,rust,go&perline=7&theme=dark" />
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://roadmap.sh">
+        <img src="https://roadmap.sh/card/tall/6505f3e78dfc79db2fff8e3e?variant=dark" alt="roadmap.sh" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/chaninlaw">
+        <img src="https://skillicons.dev/icons?i=js,typescript,nodejs,nestjs,react,next,astro,html,css,tailwind,postgres,prisma,docker,git,rust,go&perline=7&theme=dark" alt="Skills" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## Github Stats
 <details close>
   <summary><b>📊 Stats</b></summary>
-  <div align = "center">
+  <div align="center">
     
 <picture>
   <source
