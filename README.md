@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 August 2023 - To: 20 April 2025
+From: 21 August 2023 - To: 21 April 2025
 
-Total Time: 3,523 hrs 52 mins
+Total Time: 3,531 hrs 33 mins
 
-TypeScript                 2,446 hrs 45 mins█████████████████▒░░░░░░░   69.43 %
-Other                      430 hrs 16 mins ███░░░░░░░░░░░░░░░░░░░░░░   12.21 %
-sh                         277 hrs 25 mins ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 %
-Python                     90 hrs 54 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 %
-Go                         55 hrs 47 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
+TypeScript                 2,449 hrs 7 mins█████████████████▒░░░░░░░   69.35 %
+Other                      432 hrs 25 mins ███░░░░░░░░░░░░░░░░░░░░░░   12.24 %
+sh                         278 hrs 15 mins ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 %
+Python                     90 hrs 59 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 %
+Go                         57 hrs 23 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
 JavaScript                 38 hrs 49 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
 Rust                       13 hrs 1 min    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
 Astro                      11 hrs 39 mins  ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
